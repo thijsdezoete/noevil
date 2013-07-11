@@ -1,0 +1,4 @@
+noevil
+======
+
+No eval
